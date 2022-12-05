@@ -10,3 +10,5 @@ redis for windows 5.0.10 （只在这个版本上做了验证）
 
 # POC
 放出的POC为弹出计算器
+
+![](Snipaste_2022-12-05_19-31-09.png)
